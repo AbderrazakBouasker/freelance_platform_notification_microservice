@@ -19,6 +19,6 @@ docker run -p 9093:8080 --name notification-service --network freelance-platform
 
 ### Test the service
 ```bash
-curl http://localhost:9093/notifications/hello
+curl http://localhost:9093/hello
 ```
 
